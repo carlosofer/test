@@ -3,7 +3,7 @@
 	<link rel="stylesheet" type="text/css" href="test.css">
 </head>
 <body>
-	<h1>Whatever plzzzzzzzzzzzzzzzzzzzzzzzzzzz!</h1>
+	<h1>Hello World!</h1>
 	<img src="image.jpg"/>
 	<p>John Carlo Valenzuela Sofer<br>2012-16954<br>CMSC 128 AB-6L</p>
 </body>
